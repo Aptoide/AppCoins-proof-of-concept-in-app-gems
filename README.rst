@@ -10,8 +10,8 @@ AppCoins - other repositories:
    * AppCoins-proof-of-attention - Android project to evaluate Proof-of-Attention API availability.
       https://github.com/Aptoide/AppCoins-proof-of-attention
    
-   * AppCoins-proof-of-concept-in-app-items - Proof-of-concept: using Aptoide app to purchase in-app items in AppCoins
-      https://github.com/Aptoide/AppCoins-proof-of-concept-in-app-items
+   * AppCoins-proof-of-concept-in-app-gems - Proof-of-concept: using Aptoide app to purchase in-app items in AppCoins
+      https://github.com/Aptoide/AppCoins-proof-of-concept-in-app-gems
 
 AppCoins Protocol
 ==============
@@ -33,7 +33,7 @@ Aptoide Development:
    *  Commits in the last 30 days: https://github.com/Aptoide/aptoide-client-v8/graphs/contributors
 
 
-AppCoins-proof-of-concept-in-app-items:
+AppCoins-proof-of-concept-in-app-gems:
 ------------
  
 Proof-of-concept: using Aptoide app to purchase in-app items in AppCoins
